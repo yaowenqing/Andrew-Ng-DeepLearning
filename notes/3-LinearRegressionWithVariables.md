@@ -8,7 +8,7 @@
 
 6_{1}^{1}
 
-$6_{1}^{1}$
+$\sum_{i=0}^N{X_i}$
 
 ![](https://github.com/yaowenqing/Andrew-Ng-DeepLearning/blob/master/images/10.jpg)
 
