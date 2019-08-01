@@ -6,7 +6,9 @@
 
 ![](https://github.com/yaowenqing/Andrew-Ng-DeepLearning/blob/master/images/9.jpg)
 
+6_{1}^{1}
 
+$6_{1}^{1}$
 
 ![](https://github.com/yaowenqing/Andrew-Ng-DeepLearning/blob/master/images/10.jpg)
 
