@@ -6,6 +6,6 @@
 
 ![](https://github.com/yaowenqing/Andrew-Ng-DeepLearning/blob/master/images/15.jpg)
 
-![](https://github.com/yaowenqing/Andrew-Ng-DeepLearning/blob/master/images/13.png)
-
 ![](https://github.com/yaowenqing/Andrew-Ng-DeepLearning/blob/master/images/16.jpg)
+
+![](https://github.com/yaowenqing/Andrew-Ng-DeepLearning/blob/master/images/13.png)
