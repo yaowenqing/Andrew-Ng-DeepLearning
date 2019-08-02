@@ -7,3 +7,5 @@
 [第二章 单变量线性回归](https://github.com/yaowenqing/Andrew-Ng-DeepLearning/blob/master/notes/2-LinearRegressionWithOneVariable.md)
 
 [第三章 多变量线性回归](https://github.com/yaowenqing/Andrew-Ng-DeepLearning/blob/master/notes/3-LinearRegressionWithVariables.md)
+
+[第四章 Logistic回归](https://github.com/yaowenqing/Andrew-Ng-DeepLearning/blob/master/notes/4-LogisticRegression.md)
